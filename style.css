@@ -1,0 +1,78 @@
+body{
+    background-image: linear-gradient(#00F490   , #00BBC9);
+}
+
+
+.container{
+}
+
+a{
+    color: white !important;
+}
+
+.dropdown-item{
+    background-color: black;
+}
+
+.dropdown-item:hover{
+    background-color: black;
+}
+
+
+.hero{
+    padding: 30px 0 0 0;
+    align-items:center;
+}
+.hero-left{
+    color: white;
+}
+
+.hero-img{
+    max-height: 100%;
+}
+
+.msg{
+    justify-content: space-between;
+}
+.dan-img{
+   
+    border-radius: 20px 0 0 20px;
+    background-image:url(images/headshot-dan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    margin: 20px 0 0 0;
+}
+
+.danmsg{
+    
+    background-color: white;
+    border: solid black 1px;
+    border-radius: 0 20px 20px 0;
+    margin: 20px 0 0 0;
+
+}
+
+
+#carouselExampleInterval{
+    margin:40px 0 40px 0;
+    height: 400px;
+    width: 100%;
+}
+
+
+.d-block{
+    width:auto !important;
+    max-height:400px !important;
+    
+}
+
+
+.prodict{
+    justify-content: space-between;
+}
+
+.card-title{
+    color: #00F490;
+    font-style: normal;
+}
